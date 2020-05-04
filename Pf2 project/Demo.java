@@ -2,7 +2,7 @@
 /**
  * Aggiungi qui una descrizione della classe Demo
  * 
- * @author (il tuo nome) 
+ * @author (....) 
  * @version (un numero di versione o una data)
  */
 public class Demo

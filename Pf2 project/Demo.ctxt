@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Demo
-comment0.text=\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Demo\n\ \n\ @author\ (il\ tuo\ nome)\ \n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\n
+comment0.text=\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Demo\n\ \n\ @author\ (....)\ \n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\n
 comment1.params=
 comment1.target=Demo()
 comment1.text=\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Demo\n
