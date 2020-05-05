@@ -9,6 +9,7 @@ public class BasicChess
 {
     // variabili d'istanza - sostituisci l'esempio che segue con il tuo
     private int x;
+    private Chessgame y;
 
     /**
      * Costruttore degli oggetti di classe  BasicChess

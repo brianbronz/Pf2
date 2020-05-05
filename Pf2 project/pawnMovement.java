@@ -5,10 +5,10 @@
  * @author (il tuo nome) 
  * @version (un numero di versione o una data)
  */
-public class pawnMovement
-{
+public class pawnMovement extends BasicChess{
     // variabili d'istanza - sostituisci l'esempio che segue con il tuo
     private int x;
+    private int y;
 
     /**
      * Costruttore degli oggetti di classe  pawnMovement
