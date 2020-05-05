@@ -1,7 +1,7 @@
 
 /**
  * Aggiungi qui una descrizione della classe pawnMovement
- * 
+ * At the beginning we can start 
  * @author (il tuo nome) 
  * @version (un numero di versione o una data)
  */
@@ -11,12 +11,13 @@ public class pawnMovement extends BasicChess{
     private int y;
 
     /**
-     * Costruttore degli oggetti di classe  pawnMovement
+     * Constructor of the object  pawnMovement
      */
     public pawnMovement()
     {
         // inizializza le variabili d'istanza
         x = 0;
+        y = 0;
     }
 
     /**
@@ -25,9 +26,8 @@ public class pawnMovement extends BasicChess{
      * @param  y   un parametro d'esempio per un metodo
      * @return     la somma di x e y
      */
-    public int sampleMethod(int y)
+    public int moveKing(int x, int y)
     {
-        // metti qui il tuo codice
-        return x + y;
+        return 0;
     }
 }

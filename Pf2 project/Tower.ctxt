@@ -1,10 +1,16 @@
 #BlueJ class context
 comment0.target=Tower
 comment0.text=\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Tower\n\ \n\ @author\ (il\ tuo\ nome)\ \n\ @version\ (un\ numero\ di\ versione\ o\ una\ data)\n
-comment1.params=
-comment1.target=Tower()
-comment1.text=\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Tower\n
-comment2.params=y
-comment2.target=int\ sampleMethod(int)
+comment1.params=x\ y
+comment1.target=Tower(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ classe\ \ Tower\n
+comment2.params=
+comment2.target=int\ getTower()
 comment2.text=\n\ Un\ esempio\ di\ metodo\ -\ aggiungi\ i\ tuoi\ commenti\n\ \n\ @param\ \ y\ \ \ un\ parametro\ d'esempio\ per\ un\ metodo\n\ @return\ \ \ \ \ la\ somma\ di\ x\ e\ y\n
-numComments=3
+comment3.params=
+comment3.target=boolean\ getBTower()
+comment3.text=\n\ method\ to\ get\ the\ black\ tower\n\ \n
+comment4.params=
+comment4.target=boolean\ getWTower()
+comment4.text=\n\ \ method\ to\ get\ the\ white\ tower\n
+numComments=5

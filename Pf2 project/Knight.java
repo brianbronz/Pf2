@@ -9,6 +9,8 @@ public class Knight
 {
     // variabili d'istanza - sostituisci l'esempio che segue con il tuo
     private int x;
+    private int y;
+    private Pawn state;
 
     /**
      * Costruttore degli oggetti di classe  Knight

@@ -1,21 +1,19 @@
 
 /**
- * Aggiungi qui una descrizione della classe Queen
+ * Aggiungi qui una descrizione della classe Rectangle
  * 
  * @author (il tuo nome) 
  * @version (un numero di versione o una data)
  */
-public class Queen
+public class Rectangle
 {
     // variabili d'istanza - sostituisci l'esempio che segue con il tuo
     private int x;
     private int y;
-    private Pawn state;
-
     /**
-     * Costruttore degli oggetti di classe  Queen
+     * Costruttore degli oggetti di classe  Rectangle
      */
-    public Queen()
+    public Rectangle()
     {
         // inizializza le variabili d'istanza
         x = 0;

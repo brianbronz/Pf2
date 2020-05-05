@@ -9,6 +9,7 @@ public class ChessBoard
 {
     // variabili d'istanza - sostituisci l'esempio che segue con il tuo
     private int x;
+    private Rectangle z;
 
     /**
      * Costruttore degli oggetti di classe  ChessBoard
