@@ -31,7 +31,7 @@ public class Tower{
     public int getTower()
     {
         // metti qui il tuo codice
-        return x;
+        return x+y;
     }
     
     /**

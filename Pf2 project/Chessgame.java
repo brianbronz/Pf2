@@ -1,4 +1,4 @@
-
+import javax.swing.JFrame;
 /**
  * Aggiungi qui una descrizione della classe Chessgame
  * 
